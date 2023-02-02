@@ -10,7 +10,7 @@ public class Main {
         try(BufferedReader input = new BufferedReader(new FileReader(inputFileName));
             BufferedWriter output = new BufferedWriter(new FileWriter(outputFileName))){
 
-
         }
     }
 }
+
