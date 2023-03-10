@@ -1,21 +1,26 @@
+package Yandex.Intern.SpringSummer2023.E;
+
 import java.io.*;
-import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class Template {
+public class Main {
     public static void main(String[] args) throws IOException {
-        try(BufferedReader input = new BufferedReader(new FileReader(MethodHandles.lookup().lookupClass().getResource("input.txt").getFile()));
-            BufferedWriter output = new BufferedWriter(new FileWriter("output.txt"))){
+        String inputFileName = "src/YandexInternSpringSummer2023/E/input.txt";
+        //String inputFileName = "input.txt";
+        String outputFileName = "output.txt";
+        try(BufferedReader input = new BufferedReader(new FileReader(inputFileName));
+            BufferedWriter output = new BufferedWriter(new FileWriter(outputFileName))){
 
             //read one number to int
             int numString = Integer.parseInt(input.readLine());
             //read to array of String
             for (int i = 0; i < numString; i++) {
                 String[] values = input.readLine().split(",");
+
             }
 
             //read "1 5 -12" => List<Integer>
