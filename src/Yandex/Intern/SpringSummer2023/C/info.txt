@@ -1,0 +1,5 @@
+Решение Валеры в Excel
+https://docs.google.com/spreadsheets/d/1XXTpXeJW5JgQAnppul18Yv27mEh0slQP/edit#gid=86778901
+
+Возможное решение:
+https://www.baeldung.com/cs/maximize-profit-given-quotes

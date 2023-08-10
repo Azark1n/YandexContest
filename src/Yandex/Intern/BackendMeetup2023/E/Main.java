@@ -1,3 +1,5 @@
+package Yandex.Intern.BackendMeetup2023.E;
+
 import java.io.*;
 import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
@@ -6,7 +8,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-public class Template {
+public class Main {
     public static void main(String[] args) throws IOException {
 //        try(BufferedReader input = new BufferedReader(new FileReader("input.txt"));
         try(BufferedReader input = new BufferedReader(new FileReader(MethodHandles.lookup().lookupClass().getResource("input.txt").getFile()));

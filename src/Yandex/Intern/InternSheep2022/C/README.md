@@ -1,206 +1,6 @@
-<div class="problem__statement text" data-bem="{&quot;problem__statement&quot;:{}}">
-<div class="problem-statement">
-   <div class="header">
-      <h1 class="title">C. Приснится же такое...</h1>
-      <table>
-         <tbody><tr>
-            <th>Язык</th>
-            <th>Ограничение времени</th>
-            <th>Ограничение памяти</th>
-            <th>Ввод</th>
-            <th>Вывод</th>
-         </tr>
-         <tr>
-            <td width="1%">Все языки</td>
-            <td>2&nbsp;секунды</td>
-            <td>512Mb</td>
-            <td rowspan="7">стандартный ввод или input.txt</td>
-            <td rowspan="7">стандартный вывод или output.txt</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>Python 3.7.3</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>Python 3.7 (PyPy 7.3.3)</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>Scala 2.13.4</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>OpenJDK Java 15</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>PHP 7.3.5</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-         <tr>
-            <td>
-               <nobr>Kotlin 1.5.32 (JRE 11)</nobr>
-            </td>
-            <td>3&nbsp;секунды</td>
-            <td>512Mb</td>
-         </tr>
-      </tbody></table>
-   </div>
-   <h2></h2>
-   <div class="legend"> Наконец-то с царством Морфея удалось наладить дипломатические отношения! Первым делом в магазины поступили самые корректные
-      и полные сонники, составленные в сотрудничестве с главными сномагами царства. <!--l. 49-->
-      <p style="text-indent: 0em;">Ваш близкий друг Тирания Вампадур купила такой сонник одной из первых. Но тут же её ждало разочарование.
-      Оказалось, что некоторые сны образуют целую последовательность сюжетов, которую надо интерпретировать только целиком. <!--l.
-      51-->
-      </p><p style="text-indent: 0em;">И у Тирании оказалась именно такая ситуация. Когда-то давно ей приснилось двоичное дерево
-      из <!--l. 51--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-1-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-1" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-2" class="mjx-mrow"><span id="MJXc-Node-3" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.085em;">N</span></span></span></span></span><script type="math/mml" id="MathJax-Element-1"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math></script>
-      вершин, занумерованных целыми числами от <!--l. 51--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-2-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-4" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-5" class="mjx-mrow"><span id="MJXc-Node-6" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">1</span></span></span></span></span><script type="math/mml" id="MathJax-Element-2"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math></script>
-      до <!--l. 51--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-3-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-7" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-8" class="mjx-mrow"><span id="MJXc-Node-9" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.085em;">N</span></span></span></span></span><script type="math/mml" id="MathJax-Element-3"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math></script>.
-      <!--l. 53-->
-      </p><p style="text-indent: 0em;">Вершина <!--l. 53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-4-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-10" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-11" class="mjx-mrow"><span id="MJXc-Node-12" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">1</span></span></span></span></span><script type="math/mml" id="MathJax-Element-4"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math></script>
-      являлась корнем. У каждой вершины <!--l. 53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-5-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-13" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-14" class="mjx-mrow"><span id="MJXc-Node-15" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-5"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      было до двух сыновей: левый имел номер <!--l. 53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-6-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-16" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-17" class="mjx-mrow"><span id="MJXc-Node-18" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">2</span></span><span id="MJXc-Node-19" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.003em; padding-bottom: 0.308em;">⋅</span></span><span id="MJXc-Node-20" class="mjx-mi MJXc-space2"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-6"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn>
-      <mo>⋅</mo> <mi>v</mi></math></script>, правый — <!--l. 53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-7-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-21" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-22" class="mjx-mrow"><span id="MJXc-Node-23" class="mjx-mn"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">2</span></span><span id="MJXc-Node-24" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.003em; padding-bottom: 0.308em;">⋅</span></span><span id="MJXc-Node-25" class="mjx-mi MJXc-space2"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-26" class="mjx-mo MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.308em; padding-bottom: 0.43em;">+</span></span><span id="MJXc-Node-27" class="mjx-mn MJXc-space2"><span class="mjx-char MJXc-TeX-main-R" style="padding-top: 0.369em; padding-bottom: 0.369em;">1</span></span></span></span></span><script type="math/mml" id="MathJax-Element-7"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn>
-      <mo>⋅</mo> <mi>v</mi> <mo>+</mo> <mn>1</mn></math></script> (при условии, что их номера не превосходили <!--l. 53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-8-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-28" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-29" class="mjx-mrow"><span id="MJXc-Node-30" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.085em;">N</span></span></span></span></span><script type="math/mml" id="MathJax-Element-8"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math></script>). Таким образом, зная число <!--l.
-      53--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-9-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-31" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-32" class="mjx-mrow"><span id="MJXc-Node-33" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.085em;">N</span></span></span></span></span><script type="math/mml" id="MathJax-Element-9"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math></script>, дерево
-      можно было однозначно восстановить. <!--l. 55-->
-      </p><p style="text-indent: 0em;">Но, к сожалению, следующие <!--l. 55--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-10-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-34" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-35" class="mjx-mrow"><span id="MJXc-Node-36" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.491em;">Q</span></span></span></span></span><script type="math/mml" id="MathJax-Element-10"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi></math></script>
-      ночей Тирании снились похожие сны: одна из вершин дерева <!--l. 55--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-11-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-37" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-38" class="mjx-mrow"><span id="MJXc-Node-39" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-11"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      менялась местами с её предком (если <!--l. 55--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-12-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-40" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-41" class="mjx-mrow"><span id="MJXc-Node-42" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-12"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      была корнем дерева, то ничего не происходило). Причем эти изменения переносились между снами, всё больше и больше изменяя
-      оригинальное дерево. <!--l. 57-->
-      </p><p style="text-indent: 0em;">Чтобы верно интерпретировать значение снов, Тирании нужно узнать итоговую структуру дерева
-      после всех произошедших с ним изменений. Она просит вас помочь ей и по последовательности менявшихся вершин найти итоговую
-      структуру дерева из её снов. <!--l. 59-->
-      </p><p style="text-indent: 0em;">Понимая, что в этом деле важна точность, вы расспросили Тиранию насчет процесса обмена местами
-      вершины <!--l. 59--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-13-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-43" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-44" class="mjx-mrow"><span id="MJXc-Node-45" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-13"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      с её предком. <!--l. 61-->
-      </p><p style="text-indent: 0em;">Введем обозначения: </p><ul>
-      <li>
-      <!--l. 65--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-14-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-46" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-47" class="mjx-mrow"><span id="MJXc-Node-48" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-14"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>
-      — предок вершины <!--l. 65--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-15-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-49" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-50" class="mjx-mrow"><span id="MJXc-Node-51" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-15"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>,
-      <!--l. 65--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-16-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-52" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-53" class="mjx-mrow"><span id="MJXc-Node-54" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-55" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-16"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>p</mi></math></script>
-      — предок вершины <!--l. 65--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-17-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-56" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-57" class="mjx-mrow"><span id="MJXc-Node-58" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-17"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>
-      (если таковые существуют); </li>
-      <li>
-      <!--l. 66--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-18-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-59" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-60" class="mjx-mrow"><span id="MJXc-Node-61" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-62" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">l</span></span></span></span></span><script type="math/mml" id="MathJax-Element-18"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>l</mi></math></script>
-      — левый ребенок <!--l. 66--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-19-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-63" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-64" class="mjx-mrow"><span id="MJXc-Node-65" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-19"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>,
-      <!--l. 66--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-20-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-66" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-67" class="mjx-mrow"><span id="MJXc-Node-68" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-69" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">r</span></span></span></span></span><script type="math/mml" id="MathJax-Element-20"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>r</mi></math></script>
-      — правый ребенок <!--l. 66--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-21-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-70" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-71" class="mjx-mrow"><span id="MJXc-Node-72" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-21"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 67--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-22-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-73" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-74" class="mjx-mrow"><span id="MJXc-Node-75" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-76" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">l</span></span></span></span></span><script type="math/mml" id="MathJax-Element-22"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>l</mi></math></script>
-      — левый ребенок <!--l. 67--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-23-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-77" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-78" class="mjx-mrow"><span id="MJXc-Node-79" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-23"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>,
-      <!--l. 67--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-24-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-80" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-81" class="mjx-mrow"><span id="MJXc-Node-82" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-83" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">r</span></span></span></span></span><script type="math/mml" id="MathJax-Element-24"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>r</mi></math></script>
-      — правый ребенок <!--l. 67--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-25-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-84" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-85" class="mjx-mrow"><span id="MJXc-Node-86" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-25"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>.
-      </li>
-      </ul>
-      <!--l. 71-->
-      <p style="text-indent: 0em;">В таком случае обмен задаётся следующими условиями: </p><ul>
-      <li><span style="font-weight: bold;">Изменение предка</span>: если <!--l. 75--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-26-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-87" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-88" class="mjx-mrow"><span id="MJXc-Node-89" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-26"><math display="inline" style="text-indent:
-      0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script> — левый ребенок вершины <!--l. 75--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-27-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-90" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-91" class="mjx-mrow"><span id="MJXc-Node-92" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-93" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-27"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>p</mi></math></script>, то <!--l. 75--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-28-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-94" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-95" class="mjx-mrow"><span id="MJXc-Node-96" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-28"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script> становится левым ребенком <!--l. 75--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-29-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-97" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-98" class="mjx-mrow"><span id="MJXc-Node-99" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-100" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-29"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>p</mi></math></script>, иначе —
-      правым. </li>
-      <li>если <!--l. 76--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-30-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-101" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-102" class="mjx-mrow"><span id="MJXc-Node-103" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-30"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      — <span style="font-weight: bold;">левый ребенок </span>вершины <!--l. 76--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-31-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-104" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-105" class="mjx-mrow"><span id="MJXc-Node-106" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-31"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>, то: <ol style="list-style-type: decimal;">
-      <li>
-      <!--l. 80--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-32-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-107" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-108" class="mjx-mrow"><span id="MJXc-Node-109" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-32"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>
-      становится левым ребенком <!--l. 80--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-33-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-110" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-111" class="mjx-mrow"><span id="MJXc-Node-112" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-33"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 81--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-34-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-113" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-114" class="mjx-mrow"><span id="MJXc-Node-115" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-116" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">r</span></span></span></span></span><script type="math/mml" id="MathJax-Element-34"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>r</mi></math></script>
-      остаётся правым ребенком <!--l. 81--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-35-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-117" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-118" class="mjx-mrow"><span id="MJXc-Node-119" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-35"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 82--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-36-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-120" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-121" class="mjx-mrow"><span id="MJXc-Node-122" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-123" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">l</span></span></span></span></span><script type="math/mml" id="MathJax-Element-36"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>l</mi></math></script>
-      становится левым ребенком <!--l. 82--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-37-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-124" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-125" class="mjx-mrow"><span id="MJXc-Node-126" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-37"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 83--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-38-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-127" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-128" class="mjx-mrow"><span id="MJXc-Node-129" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-130" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">r</span></span></span></span></span><script type="math/mml" id="MathJax-Element-38"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>r</mi></math></script>
-      остаётся правым ребенком <!--l. 83--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-39-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-131" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-132" class="mjx-mrow"><span id="MJXc-Node-133" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-39"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>.
-      </li>
-      </ol>
-      <div style="margin-bottom: 0.5em; margin-left: 1em; margin-right: 1em; text-align: center;">
-      <!--l. 87-->
-      <p style="margin-bottom: 0.5em; text-indent: 0em;">
-      </p><div style="margin-bottom: 0.5em; margin-top: 0.5em; text-align: center;">
-      <table cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
-      <colgroup>
-      <col>
-      <col>
-      </colgroup>
-      <tbody><tr style="vertical-align: baseline;">
-      <td style="padding-left: 5pt; padding-right: 5pt; text-align: center; white-space: nowrap;"><img alt="PIC" src="img.png"></td>
-      <td style="padding-left: 5pt; padding-right: 5pt; text-align: center; white-space: nowrap;"><img alt="PIC" src="img_1.png"></td>
-      </tr>
-      </tbody></table>
-      </div>
-      <p></p>
-      </div>
-      </li>
-      <li>аналогично, если <!--l. 94--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-40-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-134" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-135" class="mjx-mrow"><span id="MJXc-Node-136" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-40"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>
-      — <span style="font-weight: bold;">правый</span> <span style="font-weight: bold;">ребенок </span>вершины <!--l. 94--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-41-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-137" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-138" class="mjx-mrow"><span id="MJXc-Node-139" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-41"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>, то: <ol style="list-style-type:
-      decimal;">
-      <li>
-      <!--l. 98--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-42-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-140" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-141" class="mjx-mrow"><span id="MJXc-Node-142" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-42"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>
-      становится правым ребенком <!--l. 98--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-43-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-143" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-144" class="mjx-mrow"><span id="MJXc-Node-145" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-43"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 99--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-44-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-146" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-147" class="mjx-mrow"><span id="MJXc-Node-148" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-149" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">l</span></span></span></span></span><script type="math/mml" id="MathJax-Element-44"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>l</mi></math></script>
-      остаётся левым ребенком <!--l. 99--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-45-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-150" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-151" class="mjx-mrow"><span id="MJXc-Node-152" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span></span></span></span><script type="math/mml" id="MathJax-Element-45"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 100--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-46-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-153" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-154" class="mjx-mrow"><span id="MJXc-Node-155" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">v</span></span><span id="MJXc-Node-156" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.308em;">r</span></span></span></span></span><script type="math/mml" id="MathJax-Element-46"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>v</mi><mi>r</mi></math></script>
-      становится правым ребенком <!--l. 100--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-47-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-157" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-158" class="mjx-mrow"><span id="MJXc-Node-159" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-47"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>;
-      </li>
-      <li>
-      <!--l. 101--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-48-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-160" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-161" class="mjx-mrow"><span id="MJXc-Node-162" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span><span id="MJXc-Node-163" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">l</span></span></span></span></span><script type="math/mml" id="MathJax-Element-48"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi><mi>l</mi></math></script>
-      остаётся левым ребенком <!--l. 101--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-49-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-164" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-165" class="mjx-mrow"><span id="MJXc-Node-166" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.247em; padding-bottom: 0.491em;">p</span></span></span></span></span><script type="math/mml" id="MathJax-Element-49"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>p</mi></math></script>.
-      </li>
-      </ol>
-      <div style="margin-bottom: 0.5em; margin-left: 1em; margin-right: 1em; text-align: center;">
-      <!--l. 105-->
-      <p style="margin-bottom: 0.5em; text-indent: 0em;">
-      </p><div style="margin-bottom: 0.5em; margin-top: 0.5em; text-align: center;">
-      <table cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
-      <colgroup>
-      <col>
-      <col>
-      </colgroup>
-      <tbody><tr style="vertical-align: baseline;">
-      <td style="padding-left: 5pt; padding-right: 5pt; text-align: center; white-space: nowrap;"><img alt="PIC" src="img_2.png"></td>
-      <td style="padding-left: 5pt; padding-right: 5pt; text-align: center; white-space: nowrap;"><img alt="PIC" src="img_3.png"></td>
-      </tr>
-      </tbody></table>
-      </div>
-      <p></p>
-      </div>
-      </li>
-      </ul>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
-      <p></p>
+span
 
-   </div>
+</div>
    <h2>Формат ввода</h2>
    <div class="input-specification"> Первая строка содержит два целых числа <!--l. 115--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-50-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-167" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-168" class="mjx-mrow"><span id="MJXc-Node-169" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.085em;">N</span></span></span></span></span><script type="math/mml" id="MathJax-Element-50"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math></script>
       и <!--l. 115--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-51-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-170" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-171" class="mjx-mrow"><span id="MJXc-Node-172" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.491em;">Q</span></span></span></span></span><script type="math/mml" id="MathJax-Element-51"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>Q</mi></math></script>
@@ -216,7 +16,12 @@
       — номер вершины, обменявшейся местами со своим предком в <!--l. 117--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-60-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-239" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-240" class="mjx-mrow"><span id="MJXc-Node-241" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.43em; padding-bottom: 0.308em;">i</span></span></span></span></span><script type="math/mml" id="MathJax-Element-60"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>i</mi></math></script>-ю
       ночь. </p>
 
-   </div>
+
+    Формат ввода
+
+
+   
+</div>
    <h2>Формат вывода</h2>
    <div class="output-specification"> В единственной строке через пробел требуется вывести номера вершин дерева после всех изменений в формате <!--l. 121--><span class="MathJax_Preview" style="color: inherit; display: none;"></span><span id="MathJax-Element-61-Frame" class="mjx-chtml MathJax_CHTML" tabindex="0" style="font-size: 117%;"><span id="MJXc-Node-242" class="mjx-math" style="text-indent: 0em;"><span id="MJXc-Node-243" class="mjx-mrow"><span id="MJXc-Node-244" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">L</span></span><span id="MJXc-Node-245" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em; padding-right: 0.186em;">V</span></span><span id="MJXc-Node-246" class="mjx-mi"><span class="mjx-char MJXc-TeX-math-I" style="padding-top: 0.491em; padding-bottom: 0.308em;">R</span></span></span></span></span><script type="math/mml" id="MathJax-Element-61"><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>L</mi><mi>V</mi> <mi>R</mi></math></script>,
       начиная с корня дерева. <!--l. 123-->
@@ -238,13 +43,18 @@
       </ol>
       <p></p>
 
-   </div>
+
+    Формат вывода
+
+
+   
+</div>
    <h2>Пример</h2>
    <table class="sample-tests">
       <thead>
          <tr>
-            <th>Ввод<div class="problem__copy-sample"><button class="button button_theme_pseudo button_size_s button_only-icon_yes problem__copy-button problem__copy-button_type_input i-bem" data-bem="{&quot;button&quot;:{}}" role="button" type="button" title="Скопировать ввод"><span class="button__text">&nbsp;<img class="image button__icon button__icon_role_copy" src="//yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" alt="Скопировать ввод"></span></button></div></th>
-            <th>Вывод<div class="problem__copy-sample"><button class="button button_theme_pseudo button_size_s button_only-icon_yes problem__copy-button problem__copy-button_type_output i-bem" data-bem="{&quot;button&quot;:{}}" role="button" type="button" title="Скопировать вывод"><span class="button__text">&nbsp;<img class="image button__icon button__icon_role_copy" src="//yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" alt="Скопировать вывод"></span></button></div></th>
+            <th>Ввод<div class="problem__copy-sample"><button class="button button_theme_pseudo button_size_s button_only-icon_yes problem__copy-button problem__copy-button_type_input i-bem" data-bem="{"button":{}}" role="button" type="button" title="Скопировать ввод"><span class="button__text"> <img class="image button__icon button__icon_role_copy" src="https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" alt="Скопировать ввод"></span></button></div></th>
+            <th>Вывод<div class="problem__copy-sample"><button class="button button_theme_pseudo button_size_s button_only-icon_yes problem__copy-button problem__copy-button_type_output i-bem" data-bem="{"button":{}}" role="button" type="button" title="Скопировать вывод"><span class="button__text"> <img class="image button__icon button__icon_role_copy" src="//yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" alt="Скопировать вывод"></span></button></div></th>
          </tr>
       </thead>
       <tbody>
@@ -352,5 +162,20 @@
       <p></p>
       <p></p>
 
-   </div>
+
+    Пример
+
+
+   
+
+| Ввод | Вывод |
+| -------- | ---------- |
+|          |            |
+
+
+    Примечания
+
+
+   
+</div>
 </div></div>
